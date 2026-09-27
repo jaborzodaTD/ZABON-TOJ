@@ -1,0 +1,9 @@
+{
+  "name":"ZABON — AI Language Academy",
+  "short_name":"ZABON",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f7f8fc",
+  "theme_color":"#6d5dfc",
+  "description":"Learn languages. Understand the world."
+}

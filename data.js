@@ -1,0 +1,63 @@
+window.ZABON_DATA = {
+languages: [
+{id:"tg",name:"Тоҷикӣ",native:"Тоҷикӣ",flag:"🇹🇯"},
+{id:"ru",name:"Russian",native:"Русский",flag:"🇷🇺"},
+{id:"en",name:"English",native:"English",flag:"🇬🇧"},
+{id:"kk",name:"Kazakh",native:"Қазақша",flag:"🇰🇿"},
+{id:"uz",name:"Uzbek",native:"O‘zbekcha",flag:"🇺🇿"},
+{id:"ky",name:"Kyrgyz",native:"Кыргызча",flag:"🇰🇬"},
+{id:"de",name:"German",native:"Deutsch",flag:"🇩🇪"},
+{id:"es",name:"Spanish",native:"Español",flag:"🇪🇸"},
+{id:"fr",name:"French",native:"Français",flag:"🇫🇷"},
+{id:"it",name:"Italian",native:"Italiano",flag:"🇮🇹"},
+{id:"tr",name:"Turkish",native:"Türkçe",flag:"🇹🇷"},
+{id:"ar",name:"Arabic",native:"العربية",flag:"🇸🇦"},
+{id:"zh",name:"Chinese",native:"中文",flag:"🇨🇳"},
+{id:"ja",name:"Japanese",native:"日本語",flag:"🇯🇵"},
+{id:"ko",name:"Korean",native:"한국어",flag:"🇰🇷"}
+],
+course:[
+["Greetings","Hello, good morning, goodbye","Салом, субҳ ба хайр, хайр"],
+["Introduction","My name is... Nice to meet you.","Номи ман... Аз шиносоӣ шодам."],
+["Numbers","One, two, three, ten, one hundred","Як, ду, се, даҳ, сад"],
+["Family","Mother, father, brother, sister","Модар, падар, бародар, хоҳар"],
+["Home","House, room, door, kitchen","Хона, ҳуҷра, дар, ошхона"],
+["Food","Water, bread, rice, apple","Об, нон, биринҷ, себ"],
+["Review","Review your first six lessons","Такрори шаш дарси аввал"],
+["Work","Job, office, manager, colleague","Кор, идора, роҳбар, ҳамкор"],
+["Time","Today, tomorrow, morning, evening","Имрӯз, фардо, саҳар, шом"],
+["Daily Routine","Wake up, eat, work, sleep","Бедор шудан, хӯрдан, кор кардан, хобидан"],
+["Shopping","Price, money, cheap, expensive","Нарх, пул, арзон, гарон"],
+["Transport","Bus, train, taxi, station","Автобус, қатор, таксӣ, истгоҳ"],
+["City","Street, center, bank, pharmacy","Кӯча, марказ, бонк, дорухона"],
+["Review","Review lessons 8–13","Такрори дарсҳои 8–13"],
+["Travel","Airport, ticket, passport, trip","Фурудгоҳ, билет, шиноснома, сафар"],
+["Hotel","Room, reservation, key, reception","Ҳуҷра, брон, калид, қабулгоҳ"],
+["Restaurant","Menu, table, order, bill","Меню, миз, фармоиш, ҳисоб"],
+["Health","Doctor, medicine, pain, healthy","Духтур, дору, дард, солим"],
+["Weather","Sunny, cold, hot, rain","Офтобӣ, хунук, гарм, борон"],
+["Friends","Friend, together, invite, meet","Дӯст, якҷоя, даъват кардан, вохӯрдан"],
+["Review","Review lessons 15–20","Такрори дарсҳои 15–20"],
+["Past Tense","Yesterday I worked.","Дирӯз ман кор кардам."],
+["Future","Tomorrow I will study.","Фардо ман мехонам."],
+["Questions","Who, what, where, when, why","Кӣ, чӣ, куҷо, кай, чаро"],
+["Common Phrases","Please, thank you, excuse me","Лутфан, раҳмат, бубахшед"],
+["Conversation","Start and maintain a simple conversation","Оғоз ва идомаи гуфтугӯи оддӣ"],
+["Listening","Understand short everyday audio","Фаҳмидани гуфтори кӯтоҳи ҳаррӯза"],
+["Speaking","Speak about yourself and your day","Дар бораи худ ва рӯзатон гап занед"],
+["Final Preparation","Review vocabulary and grammar","Такрори луғат ва грамматика"],
+["Final Exam","30-day final assessment","Имтиҳони ниҳоии 30-рӯза"]
+],
+words:[
+["hello","салом","Greetings"],["thank you","раҳмат","Common Phrases"],["family","оила","Family"],
+["water","об","Food"],["house","хона","Home"],["work","кор","Work"],["friend","дӯст","Friends"],
+["today","имрӯз","Time"],["tomorrow","фардо","Time"],["travel","сафар","Travel"],
+["doctor","духтур","Health"],["weather","обу ҳаво","Weather"],["money","пул","Shopping"],
+["city","шаҳр","City"],["restaurant","тарабхона","Restaurant"],["hotel","меҳмонхона","Hotel"]
+],
+ui:{
+en:{home:"Home",learn:"Learn",languages:"Languages",ai:"AI Tutor",translate:"Translate",dictionary:"Dictionary",words:"My Words",review:"Daily Review",challenges:"Challenges",achievements:"Achievements",profile:"Profile",settings:"Settings"},
+ru:{home:"Главная",learn:"Учиться",languages:"Языки",ai:"AI Tutor",translate:"Переводчик",dictionary:"Словарь",words:"Мои слова",review:"Повторение",challenges:"Задания",achievements:"Достижения",profile:"Профиль",settings:"Настройки"},
+tg:{home:"Асосӣ",learn:"Омӯзиш",languages:"Забонҳо",ai:"AI омӯзгор",translate:"Тарҷумон",dictionary:"Луғат",words:"Калимаҳои ман",review:"Такрор",challenges:"Мушкилот",achievements:"Дастовардҳо",profile:"Профил",settings:"Танзимот"}
+}
+};
